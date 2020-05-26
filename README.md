@@ -1,1 +1,1 @@
-# js_automation
+# Cypress Automation
