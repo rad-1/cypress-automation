@@ -1,4 +1,4 @@
-# Cypress Automation
+# Cypress Automation (macOS)
 An automation framework written in JavaScript and Cypress.
 
 Currently a WIP.
