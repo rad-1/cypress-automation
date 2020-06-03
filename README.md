@@ -56,14 +56,14 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
     
     if Local Cypress Installation:
     ~~~ sh
-    cd /your/project/path
-    npx cypress open
+    $ cd /your/project/path
+    $ npx cypress open
     ~~~
     
     if Global Cypress Installation:
     ~~~ sh
-    cd /your/project/path
-    $(npm bin)/cypress open
+    $ cd /your/project/path
+    $ (npm bin)/cypress open
     ~~~
 
 ## Running the Tests (coming soon...)
