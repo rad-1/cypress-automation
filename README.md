@@ -7,7 +7,7 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
 * [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html#npm-install)
 
 ## Installation
-1. Install Homebrew.
+1. Install Homebrew with the following command:
 
     ~~~ sh
     $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
