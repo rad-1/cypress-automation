@@ -66,7 +66,25 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
     $ (npm bin)/cypress open
     ~~~
 
-## Running the Tests (coming soon...)
+## Running the Tests
+
+1. Navigate to your root directory and open Cypress:
+
+    if Local Cypress Installation:
+    ~~~ sh
+    $ cd /your/project/path
+    $ npx cypress open
+    ~~~
+    
+    if Global Cypress Installation:
+    ~~~ sh
+    $ cd /your/project/path
+    $ (npm bin)/cypress open
+    ~~~
+    
+2. ...
+
+3. ...
 
 ## Support
 Please send a message to [radicalrad1ance](https://github.com/radicalrad1ance/) if you have questions or suggestions.
