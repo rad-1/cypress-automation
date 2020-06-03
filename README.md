@@ -82,9 +82,19 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
     $ (npm bin)/cypress open
     ~~~
     
-2. ...
+2. Test files are located at `$ cd /your/project/path/cypress/integration/` and Cypress makes it really easy to run these test files. Just click the GoogleSearchTest.spec.js file to run this test, as seen in the image below:
 
-3. ...
+<p align="center">
+  <img width="460" height="300" src="https://github.com/rad-1/cypress-automation/blob/master/readme/images/readme-one.png">
+</p>
+
+3. Now sit back and watch as Cypress runs your test file. The test steps and results will be printed in the left column of the Cypress app, as seen in the image below.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/rad-1/cypress-automation/blob/master/readme/images/readme-two.png">
+</p>
+
+4. That's it! Now go forth and write more tests!
 
 ## Support
 Please send a message to [radicalrad1ance](https://github.com/radicalrad1ance/) if you have questions or suggestions.
