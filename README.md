@@ -50,7 +50,7 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
     $ npm install cypress -g
     ~~~
     
-    Sidenote: Make sure that you have already run npm init or have a node_modules folder or package.json file in the root of your project to ensure cypress is installed in the correct directory.
+    Sidenote: Make sure to run npm init or have a node_modules folder or package.json file in the root of your project to ensure Cypress is installed in the correct directory.
     
 8. Cypress is now installed and can be opened by using one of the following commands:
     
