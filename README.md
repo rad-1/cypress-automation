@@ -1,11 +1,8 @@
 # Cypress Automation (macOS)
 An automation framework written in JavaScript and Cypress that aims to follow basic PageObject principles.
 
-## Getting Started
-Before continuing, I highly recommend installing the following tools to make your life easier:
-* [Homebrew](https://brew.sh/) for installing and managing packages
-
 ## Requirements
+* [Homebrew](https://brew.sh/)
 * [Node.js and npm](https://nodejs.org/en/)
 * [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html#npm-install)
 
