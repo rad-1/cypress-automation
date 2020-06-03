@@ -4,7 +4,7 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
 ## Requirements
 * [Homebrew](https://brew.sh/)
 * [Node.js and npm](https://nodejs.org/en/)
-* [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html#npm-install)
+* [Cypress](https://www.cypress.io/)
 
 ## Installation
 1. Install Homebrew with the following command:
