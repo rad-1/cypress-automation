@@ -47,7 +47,6 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
     
     Global Installation:
     ~~~ sh
-    $ cd /your/project/path
     $ npm install cypress -g
     ~~~
     
@@ -57,11 +56,13 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
     
     if Local Cypress Installation:
     ~~~ sh
+    cd /your/project/path
     npx cypress open
     ~~~
     
     if Global Cypress Installation:
     ~~~ sh
+    cd /your/project/path
     $(npm bin)/cypress open
     ~~~
 
