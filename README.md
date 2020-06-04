@@ -66,6 +66,8 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
     $ (npm bin)/cypress open
     ~~~
 
+9. Installation complete!
+
 ## Running the Tests
 
 1. Navigate to the root of your project and open Cypress:
