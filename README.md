@@ -31,7 +31,7 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
     $ export PATH="/usr/local/bin:$PATH"
     ~~~
 
-5. Brew install node (npm will be installed alongside node):
+5. Brew install node to install Node.js(npm will be installed alongside node):
 
     ~~~ sh
     $ brew install node
@@ -39,28 +39,28 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
 
 7. Now that Node.js is installed, it's time to install Cypress (either locally or globally):
     
-    Local Installation:
+    To install Cypress locally:
     ~~~ sh
     $ cd /your/project/path
     $ npm install cypress --save-dev
     ~~~
     
-    Global Installation:
+    To install Cypress globally:
     ~~~ sh
     $ npm install cypress -g
     ~~~
     
-    Sidenote: Make sure to run npm init or have a node_modules folder or package.json file in the root of your project to ensure Cypress is installed in the correct directory.
+    Note: Make sure to run `$ npm init` or have a `node_modules` folder or `package.json` file in the root of your project to ensure that Cypress is installed in the correct directory.
     
 8. Cypress is now installed and can be opened by using one of the following commands:
     
-    if Local Cypress Installation:
+    If you installed Cypress locally:
     ~~~ sh
     $ cd /your/project/path
     $ npx cypress open
     ~~~
     
-    if Global Cypress Installation:
+    If you installed Cypress globally:
     ~~~ sh
     $ cd /your/project/path
     $ (npm bin)/cypress open
@@ -70,32 +70,32 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
 
 1. Navigate to the root of your project and open Cypress:
 
-    if Local Cypress Installation:
+    If you installed Cypress locally:
     ~~~ sh
     $ cd /your/project/path
     $ npx cypress open
     ~~~
     
-    if Global Cypress Installation:
+    If you installed Cypress globally:
     ~~~ sh
     $ cd /your/project/path
     $ (npm bin)/cypress open
     ~~~
     
-2. Test files are located at `$ cd /your/project/path/cypress/integration/` and Cypress makes it really easy to run these test files. Just click the GoogleSearchTest.spec.js file to run this test, as seen in the image below:
+2. Test files are located at `$ cd /your/project/path/cypress/integration/` and Cypress makes it really easy to run these test files. Just click `GoogleSearchTest.spec.js` to execute all tests in this file, as seen in the image below:
 
 <p align="center">
   <img src="https://github.com/rad-1/cypress-automation/blob/master/readme/images/readme-one.png">
 </p>
 
-3. Now sit back and watch as Cypress runs your test file. The test steps and results will be printed in the left column of the Cypress app, as seen in the image below:
+3. Now sit back and watch as Cypress runs your tests. The test steps and results will be printed in the left column of the Cypress app, as seen in the image below:
 
 
 <p align="center">
   <img src="https://github.com/rad-1/cypress-automation/blob/master/readme/images/readme-two.png">
 </p>
 
-4. That's it! Now go forth and write more tests!
+4. That's it! Now go forth and test all the things!
 
 ## Support
 Please send a message to [radicalrad1ance](https://github.com/radicalrad1ance/) if you have questions or suggestions.
