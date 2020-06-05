@@ -10,7 +10,7 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
 1. Install Homebrew with the following command:
 
     ~~~ sh
-    $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     ~~~
 
 2. Brew update to make sure Homebrew is up to date:
@@ -31,7 +31,7 @@ An automation framework written in JavaScript and Cypress that aims to follow ba
     $ export PATH="/usr/local/bin:$PATH"
     ~~~
 
-5. Brew install node to install Node.js(npm will be installed alongside node):
+5. Brew install node to install Node.js (npm will be installed alongside node):
 
     ~~~ sh
     $ brew install node
